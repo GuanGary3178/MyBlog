@@ -408,9 +408,9 @@ theme = "LoveIt"
         enable = false
       #  Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "GuanGary3178/MyBlogComment"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
